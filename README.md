@@ -20,7 +20,6 @@ I am a **Software Development Engineer**, where I specialize in building scalabl
 
 - 🔭 I’m currently working on **improving microservices performance** at State Of Nevada.
 - 🌱 I’m learning more about **AI-driven cloud solutions** and **advanced DevOps techniques**.
-- 📫 Reach me via email at **karthiksanga99@gmail.com**.
 - ⚡ Fun fact: I love automating workflows and boosting team productivity!
 
 ---
