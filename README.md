@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I am a **Software Development Engineer**, where I specialize in building scalable microservices, automating machine learning workflows, and integrating DevOps practices to streamline development. With a **Master’s in Computer Science** from Texas A&M University - Corpus Christi and a **Bachelor’s in Electronics and Communications**, I have a passion for working at the intersection of **machine learning** and **cloud engineering**. I’m a continuous learner, excited about diving into new technologies and solving complex problems.
 
-- 🔭 I’m currently working on **improving microservices performance** at State Of Nevada.
+- 🔭 I’m currently working on **Query Optimization in Oracle Database** at State Of Nevada.
 - 🌱 I’m learning more about **AI-driven cloud solutions** and **advanced DevOps techniques**.
 - ⚡ Fun fact: I love automating workflows and boosting team productivity!
 
