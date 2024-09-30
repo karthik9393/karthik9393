@@ -14,64 +14,17 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Karthik Raj
 
-## About Me
-
-I am a **Software Development Engineer** currently working at State Of Nevada in Carson City, NV. My passion lies in developing scalable microservices, optimizing machine learning models, and automating processes through DevOps practices. With a Master’s in Computer Science from Texas A&M University - Corpus Christi and a Bachelor’s in Electronics and Communications from Sri Indu Institute of Engineering & Technology, I bring a strong background in both software engineering and machine learning. I’m constantly learning new technologies and love working on exciting, impactful projects.
-
-## 🛠️ Projects & Experience
-
-- **Software Development Engineer @ AT&T**  
-  - Implemented asynchronous communication with Apache Kafka and REST APIs to enhance microservices' responsiveness by 30%.
-  - Automated release processes using Jenkins Pipelines integrated with AWS services.
-
-- **ML/AI Engineer @ Iam-Intelligence**  
-  - Developed machine learning algorithms for the MAIT application, boosting trading success rates by 25% and profits by 30%.
-  - Built predictive models with TensorFlow, integrated with Spring Boot microservices, improving real-time market decisions.
-
-- **Full Stack Developer @ Texas A&M University - Corpus Christi**  
-  - Created REST APIs and backend systems for microservices, achieving ultra-low response times of 0.2 seconds.
-  - Integrated DevOps practices using Kubernetes, Docker, and AWS services to streamline development and deployment.
-
-## 📜 Certifications
-- **Microsoft Certified: Azure Data Analyst Associate**
-- **AWS Certified Cloud Practitioner**
-
-## 📫 How to reach me
-- **Email**: karthiksanga99@gmail.com
-- **LinkedIn**: [Karthik Raj on LinkedIn](https://www.linkedin.com/in/karthik-raj99)
-- **GitHub**: [github.com/karthik9393](https://github.com/karthik9393)
-
-## 🔧 Let's Build Something Awesome Together!
-
-
-# 👋 Hi, I'm Karthik Raj Sanga
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthik-raj99/)](https://www.linkedin.com/in/karthik-raj99/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/karthik9393)
-![AWS Certified](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange?style=flat-square&logo=Amazon-AWS&logoColor=white)
-![Azure Certified](https://img.shields.io/badge/Azure-Data_Analyst_Associate-blue?style=flat-square&logo=microsoft-azure&logoColor=white)
-
----
-
 ## 🧑‍💻 About Me
 
-I am a **Software Development Engineer** at AT&T in Dallas, TX, where I specialize in building scalable microservices, automating machine learning workflows, and integrating DevOps practices to streamline development. With a **Master’s in Computer Science** from Texas A&M University - Corpus Christi and a **Bachelor’s in Electronics and Communications**, I have a passion for working at the intersection of **machine learning** and **cloud engineering**. I’m a continuous learner, excited about diving into new technologies and solving complex problems.
+I am a **Software Development Engineer**, where I specialize in building scalable microservices, automating machine learning workflows, and integrating DevOps practices to streamline development. With a **Master’s in Computer Science** from Texas A&M University - Corpus Christi and a **Bachelor’s in Electronics and Communications**, I have a passion for working at the intersection of **machine learning** and **cloud engineering**. I’m a continuous learner, excited about diving into new technologies and solving complex problems.
 
-- 🔭 I’m currently working on **improving microservices performance** at AT&T.
+- 🔭 I’m currently working on **improving microservices performance** at State Of Nevada.
 - 🌱 I’m learning more about **AI-driven cloud solutions** and **advanced DevOps techniques**.
 - 📫 Reach me via email at **karthiksanga99@gmail.com**.
 - ⚡ Fun fact: I love automating workflows and boosting team productivity!
 
 ---
 
-## 🏆 Achievements
-
-- 🏅 **Increased Microservices Efficiency**: Led the development of REST APIs and Kafka-based asynchronous communication systems that improved microservice responsiveness by 30% at AT&T.
-- 📈 **Boosted ML Trading Success**: Developed machine learning algorithms for **My AI Traders (MAIT)**, increasing trading success rates by 25% and profits by 30%.
-- 🚀 **Reduced Deployment Times**: Automated the continuous integration and deployment pipelines for ML models, cutting model deployment times by 50%.
-- 💡 **Security and Maintenance Optimization**: Reduced cloud maintenance costs by 40% by deploying cloud-hosted microservices and automating password rotation using CI/CD pipelines.
-
----
 
 ## 🚀 Skills
 
@@ -106,9 +59,10 @@ I am a **Software Development Engineer** at AT&T in Dallas, TX, where I speciali
 
 ---
 
-💬 **Let’s Connect!** I'm always open to discussing new projects, ideas, and collaboration opportunities. Let's build something amazing together!
+## 📫 How to reach me
+- **Email**: karthiksanga99@gmail.com
+- **LinkedIn**: [Karthik Raj on LinkedIn](https://www.linkedin.com/in/karthik-raj99)
+- **GitHub**: [github.com/karthik9393](https://github.com/karthik9393)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthik-raj99/)](https://www.linkedin.com/in/karthik-raj99/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/karthik9393)
-[![Email](https://img.shields.io/badge/Email-karthiksanga99%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:karthiksanga99@gmail.com)
+## 🔧 Let's Build Something Awesome Together!
 
