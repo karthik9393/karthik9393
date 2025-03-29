@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 ## 🧑‍💻 About Me
 
-I’m a Software Development Engineer who loves building scalable microservices, automating machine learning workflows, and diving into DevOps. I’ve got a Master’s in Computer Science from Texas A&M University - Corpus Christi and a Bachelor’s in Electronics and Communications, which led me to blend machine learning with cloud engineering in my day-to-day work.
+I’m a Software Development Engineer who loves building scalable microservices, automating machine learning workflows, and diving into DevOps. I’ve got a Master’s in Computer Science from Texas A&M University - Corpus Christi and a Bachelor’s in Electronics and Communications.
 
 What I'm up to: Currently optimizing queries in Oracle Database at the State of Nevada.
 
-Learning: Growing my skills in AI-driven cloud solutions and advanced DevOps techniques.
+Learning: Growing my skills in AI-driven cloud solutions.
 
 Fun fact: I can’t help but automate everything I can—workflow efficiency is my jam!
 
